@@ -1,4 +1,4 @@
-# Gitam Tales
+# Zenith Tales
 
 Note: This repository contains a standalone clone/replica of the platform developed during my internship. To comply with institutional privacy policies, the original name, theme, and branding have been modified, and sensitive production data has been omitted.
 
